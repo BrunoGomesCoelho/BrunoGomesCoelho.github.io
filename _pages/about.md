@@ -2,7 +2,8 @@
 title: "About"
 permalink: /about/
 header:
-	image: "/images/about-cover.jpg"
+    image: "/images/about-cover.jpg"
+---
 
 Computer Science student with a emphasis on data science. 
 
