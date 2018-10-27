@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Bruno Gomes Coelho"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer science student and lover of python and data science."
   location         : "Brazil"
   email            :
