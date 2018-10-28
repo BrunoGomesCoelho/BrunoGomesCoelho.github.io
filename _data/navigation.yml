@@ -5,11 +5,15 @@ main:
   - title: "About"
     url: /about/
 
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+ml:
+  - title: "Machine Learning"
+    url: /machine-learning/
+    children:
+        - title: "Research"
+          url: /research/
+        - title: "ML4U Notes"
+          url: /ml4u/
+        - title: "Other Projects"
+          url: /projects/
+        - title: "ML Algorithm implementations"
+          url: /small-bang/
