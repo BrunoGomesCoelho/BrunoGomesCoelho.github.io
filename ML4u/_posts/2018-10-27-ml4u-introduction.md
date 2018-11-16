@@ -12,6 +12,5 @@ This section deals with all my notes from the [ML4U videos](https://www.youtube.
 
 Heres the list of all the post by each video:
 
-* ### [Video 1:](https://www.youtube.com/watch?v=sfkQPD_0iGo)
-	[Link Text]({% post_url ML4u/2018-10-27-testing %})
+* ### [Video 1:](https://www.youtube.com/watch?v=sfkQPD_0iGo) -	[Notes]({% post_url ML4u/2018-11-15-ml4u-video1 %})
 
