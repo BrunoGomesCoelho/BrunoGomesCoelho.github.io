@@ -15,3 +15,5 @@ During my time personalizing it, [this video](https://www.youtube.com/watch?v=qW
 ## License
 The MIT License (MIT). For more information, view the license information in the Mininal Mistake page.
 
+## Contributing
+General typos and small bug fixes are always very welcome; Other than that, the repository mostly serves for me to organize my website, so there's no need to take open issues, in factly unless it is something very technicall, I would probably prefer if you didn't.
