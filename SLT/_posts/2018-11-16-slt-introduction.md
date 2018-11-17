@@ -4,7 +4,7 @@ date: 2018-11-16
 tags: [machine learning, SLT]
 header:
   image: "/images/icmc.jpg"
-excerpt: "My personal notes"
+excerpt: "My personal notes on the paper 'Statistical Learning Theory: Models, Concepts, and Results'"
 --- 
 
 
