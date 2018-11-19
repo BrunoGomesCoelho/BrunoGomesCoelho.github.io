@@ -8,7 +8,9 @@ excerpt: "My personal notes on the paper 'Statistical Learning Theory: Models, C
 --- 
 
 
-This section deals with all my notes from the [Statistical Learning Theory: Models, Concepts, and Results by Ulrike von Luxburg and Bernhard Schoelkopf](https://arxiv.org/pdf/0810.4752.pdf) paper. 
+This section deals with all my notes from the [Statistical Learning Theory: Models, Concepts, and Results by Ulrike von Luxburg and Bernhard Schoelkopf](https://arxiv.org/pdf/0810.4752.pdf) paper, broken down into various posts.
+
+To be able to follow it, basic understanding of linear algebra, statistics and calculus is recommended.
 
 Heres the list of all the post:
 
