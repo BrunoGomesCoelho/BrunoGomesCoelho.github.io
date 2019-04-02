@@ -110,15 +110,19 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:bruno.gomes.coelho@usp.br
-    - label: "Personal Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://brunogc.wordpress.com/"
+
+    - label: " Resume"
+      icon: "fas fa-file"
+      url: "/download/Bruno_Gomes_Coelho_Resume.pdf"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BrunoGomesCoelho"
+
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/bruno-coelho-277519129/"
+
 
 
 # Site Footer
