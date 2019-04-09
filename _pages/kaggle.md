@@ -1,17 +1,16 @@
 ---
 layout: archive
-permalink: /machine-learning/
-title: "Machine Learning Posts"
-author_profile: false
+title: "Kaggle"
+permalink: /kaggle/
+author_profile: True
 header:
   image: "/images/icmc.jpg"
 
 ---
 
-
 {% include base_path %}
 
 
-{% for post in site.machine_learning %}
+{% for post in site.kaggle %}
   {% include archive-single.html %}
 {% endfor %}

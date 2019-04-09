@@ -2,7 +2,7 @@
 layout: archive
 permalink: /ml/
 title: "Machine Learning Posts"
-author_profile: false
+author_profile: True
 header:
   image: "/images/icmc.jpg"
 
