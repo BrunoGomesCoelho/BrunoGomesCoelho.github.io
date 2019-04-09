@@ -4,3 +4,11 @@ author_profile: true
 header:
   image: "/images/icmc.jpg"
 ---
+
+
+{% include base_path %}
+
+
+{% for post in site.kaggle %}
+  {% include archive-single.html %}
+{% endfor %}
