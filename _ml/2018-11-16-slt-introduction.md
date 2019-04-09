@@ -14,5 +14,5 @@ To be able to follow it, basic understanding of linear algebra, statistics and c
 
 Heres the list of all the post:
 
-* ### [Part 1]({% post_url SLT/2018-11-16-slt-part1 %})
+* ### [Part 1]({% link _ml/2018-11-16-slt-part1.md %})
 

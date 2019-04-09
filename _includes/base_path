@@ -1,0 +1,11 @@
+{% if site.url %}
+  {% assign base_path = site.url | append: site.baseurl %}
+{% else %}
+  {% assign base_path = site.github.url %}
+{% endif %}
+
+{% if site.blogurl %}
+  {% assign blog_path = base_path | append: site.blogurl %}
+{% else %}
+  {% assign blog_path = base_path %}
+{% endif %}

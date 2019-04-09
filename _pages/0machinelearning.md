@@ -1,12 +1,17 @@
 ---
-layout: posts
+layout: archive
 permalink: /machine-learning/
-title: "Machine Learning Posts by Tags"
+title: "Machine Learning Posts"
 author_profile: false
-sidebar:
-  nav: "ml"
 header:
   image: "/images/icmc.jpg"
 
 ---
 
+
+{% include base_path %}
+
+
+{% for post in site.machine_learning %}
+  {% include archive-single.html %}
+{% endfor %}

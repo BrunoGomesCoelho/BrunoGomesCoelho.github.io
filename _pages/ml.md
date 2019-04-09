@@ -1,16 +1,17 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+permalink: /ml/
+title: "Machine Learning Posts"
 author_profile: false
 header:
   image: "/images/icmc.jpg"
 
 ---
 
+
 {% include base_path %}
 
 
-{% for post in site.research %}
+{% for post in site.ml %}
   {% include archive-single.html %}
 {% endfor %}
