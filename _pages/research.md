@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: false
+author_profile: True
 header:
   image: "/images/icmc.jpg"
 
