@@ -6,9 +6,11 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Kaggle"
+    url: /kaggle/
+
   - title: "About"
     url: /about/
-
 
 ml:
   - title: "Machine Learning"
@@ -17,4 +19,8 @@ ml:
 rs:
 - title: "Research"
   url: /research/
+
+kg:
+- title: "Kaggle"
+  url: /kaggle/
 
