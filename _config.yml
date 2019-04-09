@@ -123,6 +123,11 @@ author:
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/bruno-coelho-277519129/"
 
+    - label: " Kaggle"
+      icon: "fab fa-kaggle"
+      url: "https://www.kaggle.com/brunogc"
+
+
 
 
 # Site Footer
@@ -270,6 +275,9 @@ collections:
   ml:
     output: true
     permalink: /:categories/:title/
+  kaggle:
+    output: true
+    permalink: /:categories/:title/
 
 
 # Defaults
@@ -309,6 +317,19 @@ defaults:
       comments: true
       share: true
       related: true
+  
+  # _kaggle
+  - scope:
+      path: ""
+      type: kaggle
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 
   # _pages
   - scope:
