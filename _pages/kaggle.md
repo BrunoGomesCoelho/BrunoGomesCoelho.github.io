@@ -10,7 +10,8 @@ header:
 
 {% include base_path %}
 
+{% assign order = site.kaggle | reverse %}
 
-{% for post in site.kaggle %}
+{% for post in order %}
   {% include archive-single.html %}
 {% endfor %}

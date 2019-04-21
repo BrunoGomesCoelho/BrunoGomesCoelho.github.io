@@ -11,6 +11,8 @@ header:
 {% include base_path %}
 
 
-{% for post in site.research %}
+{% assign order = site.research | reverse %}
+
+{% for post in order %}
   {% include archive-single.html %}
 {% endfor %}
