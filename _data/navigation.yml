@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Machine Learning & Teaching"
-    url: /ml/
-
-  - title: "Research"
+  - title: "ML Research & Teaching"
     url: /research/
+
+  - title: "Side projects"
+    url: /projects/
 
   - title: "Kaggle"
     url: /kaggle/
