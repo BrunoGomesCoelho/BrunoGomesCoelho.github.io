@@ -14,6 +14,12 @@ During my time personalizing it, [this video](https://www.youtube.com/watch?v=qW
 
 When writing out mathematical formulas using Mathjax, [this stackexchange post](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) was frequently used.
 
+Notes to self:
+- Running locally can be a pain. What seems to work for me is just using bundle in root, even though it's not advised, ie:
+```config
+sudo bundle
+sudo bundle exec jekyll serve --incremental
+```
 
 ## License
 The MIT License (MIT). For more information, view the license information in the Mininal Mistake page.
