@@ -20,6 +20,8 @@ Notes to self:
 sudo bundle
 sudo bundle exec jekyll serve --incremental
 ```
+- See [here](https://github.com/grantmcdermott/grantmcdermott.github.io) for notes on changing the default page to a more "about me" look.
+- Change \_data/navigation.yml to change the top headbar.
 
 ## License
 The MIT License (MIT). For more information, view the license information in the Mininal Mistake page.

@@ -105,7 +105,7 @@ author:
   name             : "Bruno Gomes Coelho"
   avatar           : "/images/bio-pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer science student and lover of python and data science."
-  location         : "Brazil"
+  location         : "Brooklyn, NY"
   email            :
   links:
     - label: "Email"
@@ -115,6 +115,10 @@ author:
     - label: " Resume"
       icon: "fas fa-file"
       url: "/download/Bruno_Gomes_Coelho_Resume.pdf"
+
+    - label: "Scholar"
+      icon: "fas fa-fw fa-book"
+      url: "https://scholar.google.com/citations?user=xu1_CAUAAAAJ"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -267,7 +271,7 @@ compress_html:
   ignore:
     envs: development
 
- 
+
 # Collections
 collections:
   research:
@@ -277,6 +281,9 @@ collections:
     output: true
     permalink: /:categories/:title/
   kaggle:
+    output: true
+    permalink: /:categories/:title/
+  teaching:
     output: true
     permalink: /:categories/:title/
 
@@ -318,11 +325,24 @@ defaults:
       comments: true
       share: true
       related: true
-  
+
   # _kaggle
   - scope:
       path: ""
       type: kaggle
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
     values:
       layout: single
       author_profile: true

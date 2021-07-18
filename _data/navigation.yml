@@ -1,16 +1,13 @@
 # main links
 main:
-  - title: "ML Research & Teaching"
+  - title: "Research"
     url: /research/
-
-  - title: "Side projects"
-    url: /projects/
 
   - title: "Kaggle"
     url: /kaggle/
 
-  - title: "About"
-    url: /about/
+  - title: "Teaching"
+    url: /teaching/
 
 ml:
   - title: "Machine Learning"
@@ -23,4 +20,8 @@ rs:
 kg:
 - title: "Kaggle"
   url: /kaggle/
+
+tc:
+- title: "Teaching"
+  url: /teaching/
 
