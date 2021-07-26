@@ -22,6 +22,7 @@ sudo bundle exec jekyll serve --incremental
 ```
 - See [here](https://github.com/grantmcdermott/grantmcdermott.github.io) for notes on changing the default page to a more "about me" look.
 - Change \_data/navigation.yml to change the top headbar.
+- Adding commented out text/ignored text to posts: https://stackoverflow.com/questions/27975757/comment-out-an-include-statement-inside-an-html-file-using-jekyll
 
 ## License
 The MIT License (MIT). For more information, view the license information in the Mininal Mistake page.
