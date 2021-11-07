@@ -5,10 +5,9 @@ permalink: /
 #     image: "/images/about-cover.jpg"
 ---
 
-I'm currently a Computer Science PhD student at [NYU Tandon School of Engineering](https://engineering.nyu.edu/).
+I'm currently a Computer Science PhD student at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](https://engineering.nyu.edu/faculty/damon-mccoy)
 
-I got my bachelor's degree in Computer Science at the Universidade de São Paulo (USP), Brazil.
-There I worked in many Machine Learning projects as a Research Assistant at the Laboratory of Computational Intelligence, focusing 
+I got my bachelor's degree in Computer Science at the Universidade de São Paulo (USP), Brazil, where  I worked in Machine Learning projects as a Research Assistant at the Laboratory of Computational Intelligence, focusing 
 primarily on DL applied to classifying insects by their wingbeat, with financing by the USAID.
 
 During my free time I participated in many Kaggle like [competitions]({{ site.baseurl }}{% link _pages/kaggle.md %}) and co-founded [Data](http://data.icmc.usp.br/).
@@ -24,13 +23,13 @@ More info can be found on my [resume]({{ site.baseurl }}{% link download/Bruno_G
 
 # [Now page](https://nownownow.com/about)
 Currently, I'm focusing on:
-- The intersection of ML and Topology with applications to Explainable AI;
+- Applying NLP techniques to study political ads and how they change in different languages
 - Studying theoretical foundations of Deep Learning;
 
 As side/coding projects, I am also focusing on:
-- Applying ML techniques to Esports;
-- Taking part in the [Reproducibility Challenge](https://paperswithcode.com/rc2020) with friends and learning JAX;
+- RL for environment design.
 - Mentoring students of the Data Science MBA at USP.
+- General CS Tutoring.
 
 I am open to internships and consulting work in tech and can be reached through [email](mailto:bruno.coelho@nyu.edu), with a focus on:
 - Research directions understanding and applying Deep Learning or Reinforcement Learning;
