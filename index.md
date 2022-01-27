@@ -37,6 +37,6 @@ As side/coding projects, I am also focusing on:
 I am open to internships and consulting work in tech and can be reached through [email](mailto:bruno.coelho@nyu.edu), with a focus on:
 - Research directions understanding and applying Deep Learning or Reinforcement Learning;
 - Continuous Delivery/Integration for ML and DS.
-{% end comment %}
+{% endcomment %}
 
 In my free time I can be often be found traveling, reading sci-fi or practicing Parkour.
