@@ -5,9 +5,9 @@ permalink: /
 #     image: "/images/about-cover.jpg"
 ---
 
-👋 Hi! I'm looking for Summer 2022 internships in Machine Learning and Data Science, either in North America, Europe or remote. See my resume [here]({{ site.baseurl }}{% link download/Bruno_Gomes_Coelho_Resume.pdf %}) and send me an [email](mailto:bruno.coelho@nyu.edu) if you think I might be a good fit!
+👋 Hi! Olá! I'm Bruno, currently a Computer Science PhD student at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/).
 
-I'm currently a Computer Science PhD student at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/).
+I'll be looking for Summer 2023 internships in Machine Learning and Data Science, either in North America, Europe or remote. See my resume [here]({{ site.baseurl }}{% link download/Bruno_Gomes_Coelho_Resume.pdf %}) and send me an [email](mailto:bruno.coelho@nyu.edu) if you think I might be a good fit!
 
 I got my bachelor's degree in Computer Science at the Universidade de São Paulo (USP), with a focus in Machine Learning as a Research Assistant at the [Laboratory of Computational Intelligence](http://labic.icmc.usp.br/), while also participating in many Kaggle like [competitions]({{ site.baseurl }}{% link _pages/kaggle.md %}) and co-founding [Data](http://data.icmc.usp.br/).
 
@@ -24,13 +24,13 @@ More info can be found on my [resume]({{ site.baseurl }}{% link download/Bruno_G
 
 # [Now page](https://nownownow.com/about)
 Currently, I'm focusing on:
-- Applying NLP techniques to study political ads and how they change in different languages
+- Studying multilingual NLP techniques for analysis of political ads.
 - Studying theoretical foundations of Deep Learning
 
 As side/coding projects, I am also focusing on:
-- RL for environment design
+- RL fundamentals and projects
 - Mentoring students of the Data Science MBA at USP
-- General CS Tutoring
+- General CS/ML Tutoring
 
 
 {% comment %}
