@@ -33,7 +33,7 @@ As side/coding projects, I am also focusing on:
 - General CS/ML Tutoring
 
 Updates:
-- I have recently won the [NDD Tech](ndd.tech) ML challenge! Read more [here]({{ site.baseurl }}{% link _kaggle/2022-07-25-ndd-challenge.md %}).
+- I have recently won the [NDD Tech](https://ndd.tech) ML challenge! Read more [here]({{ site.baseurl }}{% link _kaggle/2022-07-25-ndd-challenge.md %}).
 
 
 {% comment %}
