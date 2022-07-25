@@ -32,6 +32,9 @@ As side/coding projects, I am also focusing on:
 - Mentoring students of the Data Science MBA at USP
 - General CS/ML Tutoring
 
+Updates:
+- I have recently won the [NDD Tech](ndd.tech) ML challenge! Read more [here]({{ site.baseurl }}{% link _kaggle/2022-07-25-ndd-challenge.md %}).
+
 
 {% comment %}
 I am open to internships and consulting work in tech and can be reached through [email](mailto:bruno.coelho@nyu.edu), with a focus on:
