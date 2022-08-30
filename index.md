@@ -5,7 +5,8 @@ permalink: /
 #     image: "/images/about-cover.jpg"
 ---
 
-👋 Hi! Olá! I'm Bruno, currently a Computer Science PhD student at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/).
+👋 Hi! Olá! I'm Bruno, currently a Computer Science PhD student at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/) working alongside the [cybersecurity for Democracy](https://cybersecurityfordemocracy.org/) group.
+I work broadly in "AI for good" and their related challenging topics.
 
 I'll be looking for Summer 2023 internships in Machine Learning and Data Science, either in North America, Europe or remote. See my resume [here]({{ site.baseurl }}{% link download/Bruno_Gomes_Coelho_Resume.pdf %}) and send me an [email](mailto:bruno.coelho@nyu.edu) if you think I might be a good fit!
 
@@ -24,12 +25,13 @@ More info can be found on my [resume]({{ site.baseurl }}{% link download/Bruno_G
 
 # [Now page](https://nownownow.com/about)
 Currently, I'm focusing on:
-- Studying multilingual NLP techniques for analysis of political ads.
+- Analysis of political ads on social media platforms
+- Multilingual NLP techniques for Topic Modeling
+- Helping put into production some of my research into [Ad Observatory](https://adobservatory.org/)
 - Studying theoretical foundations of Deep Learning
 
 As side/coding projects, I am also focusing on:
-- RL fundamentals and projects
-- Mentoring students of the Data Science MBA at USP
+- Mentoring students of the Data Science MBA at the University of São Paulo
 - General CS/ML Tutoring
 
 Updates:
