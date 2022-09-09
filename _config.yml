@@ -104,7 +104,8 @@ analytics:
 author:
   name             : "Bruno Gomes Coelho"
   avatar           : "/images/bio-pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer science student and lover of python and data science."
+  bio              : ""
+  # bio              : "Computer science student and lover of python and data science."
   location         : "Brooklyn, NY"
   email            :
   links:
