@@ -31,7 +31,7 @@ Currently, I'm focusing on:
 
 As side/coding projects, I am also focusing on:
 - Mentoring students of the Data Science MBA at the University of São Paulo
-
+- Taking the Intro to ML Safety course by the [Center for AI Safety](https://safe.ai/)
 
 # News:
 
