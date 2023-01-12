@@ -6,7 +6,7 @@ permalink: /
 ---
 
 👋 Hi! Olá! I'm Bruno, currently a CS Ph.D. Candidate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/) working alongside the [cybersecurity for Democracy](https://cybersecurityfordemocracy.org/) group.
-I work broadly in "AI for good" and their related challenging topics.
+I work broadly in Machine Learning/Data Science theory and applications.
 
 I'll be looking for Summer 2023 internships in Machine Learning and Data Science, either in North America, Europe or remote. See my resume [here]({{ site.baseurl }}{% link download/Bruno_Gomes_Coelho_Resume.pdf %}) and send me an [email](mailto:bruno.coelho@nyu.edu) if you think I might be a good fit!
 
@@ -24,21 +24,21 @@ More info can be found on my [resume]({{ site.baseurl }}{% link download/Bruno_G
 
 # [Now page](https://nownownow.com/about)
 Currently, I'm focusing on:
+{% comment %}
 - Analysis of political ads on social media platforms
-- Multilingual NLP techniques for Topic Modeling
 - Helping put into production some of my research into [Ad Observatory](https://adobservatory.org/)
-- Studying theoretical foundations of Deep Learning
+{% endcomment %}
+- 🆕 A new research project for 2023 I'll update you about in the future ;)
+- 🌐 Applied Multilingual NLP techniques for Topic Modeling
+- 📚 Theoretical foundations of Deep Learning
 
 As side/coding projects, I am also focusing on:
-- Mentoring students of the Data Science MBA at the University of São Paulo
+- 🧑‍🏫 Mentoring students of the Data Science MBA at the University of São Paulo - I tutor ML, DS and DL classes
+- 🧑‍🏫 Invited speaker for NYU's Security Analytics class
+- 🎄 Finishing up this years [Advent of Code](https://adventofcode.com/)
+{% comment %}
 - Taking the Intro to ML Safety course by the [Center for AI Safety](https://safe.ai/)
-
-# News:
-
-- (Oct 2022) I will be attending ACM Internet Measurement Conference late October! If you're going and interested in discussing research/meeting, shoot me an email! 
-- (Sep 2022) Alongside [CyberSecuirty for Democracy](https://cybersecurityfordemocracy.org/), I've written up the results of my recent research: [Spending on 2020 Spanish-language political ads on Meta lagged behind English-language ads](https://medium.com/cybersecurity-for-democracy/spending-on-2020-spanish-language-political-ads-on-meta-lagged-behind-english-language-ads-772fd22d4cee)
-- (Sep 2022) I have passed my Qualifying Exam and am officially a Ph.D. ~~Student~~ Candidate!
-- (Aug 2022) I have recently won the [NDD Tech](https://ndd.tech) ML challenge! Read more [here]({{ site.baseurl }}{% link _kaggle/2022-07-25-ndd-challenge.md %}).
+{% endcomment %}
 
 
 {% comment %}
@@ -49,6 +49,15 @@ I am open to internships and consulting work in tech and can be reached through 
 
 # Background
 
-I got my bachelor's degree in Computer Science at the Universidade de São Paulo (USP)🇧🇷 , with a focus in Machine Learning as a Research Assistant at the [Laboratory of Computational Intelligence](http://labic.icmc.usp.br/), while also participating in many Kaggle like [competitions]({{ site.baseurl }}{% link _pages/kaggle.md %}) 🏆 and co-founding [Data](http://data.icmc.usp.br/).
+I got my bachelor's degree in Computer Science at the Universidade de São Paulo (USP 🇧🇷 ), with a focus in Machine Learning as a Research Assistant at the [Laboratory of Computational Intelligence](http://labic.icmc.usp.br/), while also participating in many Kaggle like [competitions]({{ site.baseurl }}{% link _pages/kaggle.md %}) 🏆 and co-founding [Data](http://data.icmc.usp.br/).
 
 In my free time I can be often be found traveling, reading sci-fi or practicing Parkour.
+
+# News:
+
+- (Oct 2022) I will be attending ACM Internet Measurement Conference late October! If you're going and interested in discussing research/meeting, shoot me an email! 
+- (Sep 2022) Alongside [CyberSecuirty for Democracy](https://cybersecurityfordemocracy.org/), I've written up the results of my recent research: [Spending on 2020 Spanish-language political ads on Meta lagged behind English-language ads](https://medium.com/cybersecurity-for-democracy/spending-on-2020-spanish-language-political-ads-on-meta-lagged-behind-english-language-ads-772fd22d4cee)
+- (Sep 2022) I have passed my Qualifying Exam and am officially a Ph.D. ~~Student~~ Candidate!
+- (Aug 2022) I have recently won the [NDD Tech](https://ndd.tech) ML challenge! Read more [here]({{ site.baseurl }}{% link _kaggle/2022-07-25-ndd-challenge.md %}).
+
+
