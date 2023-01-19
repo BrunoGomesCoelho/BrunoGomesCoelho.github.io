@@ -51,7 +51,7 @@ I am open to internships and consulting work in tech and can be reached through 
 
 I got my bachelor's degree in Computer Science at the Universidade de São Paulo (USP 🇧🇷 ), with a focus in Machine Learning as a Research Assistant at the [Laboratory of Computational Intelligence](http://labic.icmc.usp.br/), while also participating in many Kaggle like [competitions]({{ site.baseurl }}{% link _pages/kaggle.md %}) 🏆 and co-founding a Machine Learning-Data Science research group ([DATA](http://data.icmc.usp.br/)).
 
-In my free time I can be often be found traveling, reading sci-fi or practicing Parkour.
+In my free time I can be often be found traveling, reading sci-fi or practicing Parkour. 
 
 # News:
 
