@@ -5,7 +5,7 @@ permalink: /
 #     image: "/images/about-cover.jpg"
 ---
 
-👋 Hi! Olá! I'm Bruno, currently a CS Ph.D. Candidate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/) working alongside the [cybersecurity for Democracy](https://cybersecurityfordemocracy.org/) group.
+👋 Hi! Olá! I'm Bruno, currently a CS Ph.D. Candidate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/) working alongside the [Cybersecurity for Democracy](https://cybersecurityfordemocracy.org/) group.
 I work broadly in Machine Learning/Data Science theory and applications.
 
 I'll be looking for Summer 2023 internships in Machine Learning and Data Science, either in North America, Europe or remote. See my resume [here]({{ site.baseurl }}{% link download/Bruno_Gomes_Coelho_Resume.pdf %}) and send me an [email](mailto:bruno.coelho@nyu.edu) if you think I might be a good fit!
