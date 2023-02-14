@@ -8,10 +8,10 @@ permalink: /
 👋 Hi! Olá! I'm Bruno, currently a CS Ph.D. Candidate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/) working alongside the [Cybersecurity for Democracy](https://cybersecurityfordemocracy.org/) group.
 I work broadly in Machine Learning/Data Science theory and applications.
 
+{% comment %}
 I'll be looking for Summer 2023 internships in Machine Learning and Data Science, either in North America, Europe or remote. See my resume [here]({{ site.baseurl }}{% link download/Bruno_Gomes_Coelho_Resume.pdf %}) and send me an [email](mailto:bruno.coelho@nyu.edu) if you think I might be a good fit!
 
 
-{% comment %}
 focusing primarily on DL applied to classifying insects by their wingbeat, with financing by the USAID. 
 
 Before starting my PhD, I worked/consulted at various companies:
@@ -34,7 +34,7 @@ Currently, I'm focusing on:
 
 As side/coding projects, I am also focusing on:
 - 🧑‍🏫 Mentoring students of the Data Science MBA at the University of São Paulo - I tutor ML, DS and DL classes
-- 🎄 Finishing up this years [Advent of Code](https://adventofcode.com/)
+- 🎄 Finishing up last years [Advent of Code](https://adventofcode.com/)
 {% comment %}
 - Taking the Intro to ML Safety course by the [Center for AI Safety](https://safe.ai/)
 {% endcomment %}
