@@ -21,7 +21,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=xu1_CAUAA
 	- Peter Xenopoulos, ***Bruno Coelho***, Claudio Silva
 	- AISA-2021 
 
-### Other smaller research projects I've been a part of:
+### Other research projects I've been a part of:
 - NE-Motion: Visual Analysis of Stroke Patients Using Motion Sensor Networks - RC Contreras, A Parnandi, ***BG Coelho***, C Silva, H Schambra, LG Nonato - MDPI Sensors 2021 
 
 - A new multi-filter framework with statistical dense SIFT descriptor for spoofing detection in fingerprint authentication systems - Rodrigo Colnago Contreras, Luis Gustavo Nonato, Maurílio Boaventura, Inês Aparecida Gasparotto Boaventura, ***Bruno Gomes Coelho***, Monique Simplicio Viana -  ICAISC 2021
