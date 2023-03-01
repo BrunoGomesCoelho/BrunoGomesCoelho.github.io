@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: wide
 title: "Research"
 permalink: /research/
 author_profile: True
@@ -10,7 +10,7 @@ author_profile: True
 
 {% include base_path %}
 
-See my [Google Scholar](https://scholar.google.com/citations?user=xu1_CAUAAAAJ) for updated information; below some research projects:
+See also my [Google Scholar](https://scholar.google.com/citations?user=xu1_CAUAAAAJ). Below recent publications:
 
 Publications:
 - [Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español]({{ site.baseurl }}{% link download/spanish-ads-www2023.pdf %}) 
