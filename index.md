@@ -53,8 +53,13 @@ I got my bachelor's degree in Computer Science at the Universidade de São Paulo
 In my free time I can be often be found traveling, reading sci-fi or practicing Parkour. 
 
 # News:
+- (Feb 2023) I will be working at Kensho this summer as a Machine Learning Intern.
 - (Feb 2023) 🧑‍🏫 I was invited for a guest lecture for NYU's Security Analytics class - "Introduction to Data Science methods and Python tools".
-- (Jan 2023) Our paper got accepted to the [2023 ACM Web Conference](https://www2023.thewebconf.org)! `Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español` - Source will be available soon.
+{% comment %}
+- I was invited to speak at NYU's PhD Prospective Students panel.
+{% endcomment %}
+- (Jan 2023) Our paper got accepted to the [2023 ACM Web Conference](https://www2023.thewebconf.org)! 
+[Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español]({{ site.baseurl }}{% link download/spanish-ads-www2023.pdf %}) 
 - (Oct 2022) I will be attending ACM Internet Measurement Conference late October! If you're going and interested in discussing research/meeting, shoot me an email! 
 - (Sep 2022) Alongside [CyberSecuirty for Democracy](https://cybersecurityfordemocracy.org/), I've written up the results of my recent research: [Spending on 2020 Spanish-language political ads on Meta lagged behind English-language ads](https://medium.com/cybersecurity-for-democracy/spending-on-2020-spanish-language-political-ads-on-meta-lagged-behind-english-language-ads-772fd22d4cee)
 - (Sep 2022) I have passed my Qualifying Exam and am officially a Ph.D. ~~Student~~ Candidate!
