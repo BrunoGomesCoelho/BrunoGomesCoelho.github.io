@@ -59,18 +59,23 @@ In my free time I can be often be found traveling, reading sci-fi or practicing 
 - (Jan 2023) Our paper got accepted to the [2023 ACM Web Conference](https://www2023.thewebconf.org)! [Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español]({{ site.baseurl }}{% link download/spanish-ads-www2023.pdf %}) 
 
 <details>
-<summary> Old News </summary>
+<summary> <h2>Old News</h2> </summary>
 
  <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>(Oct 2022) I will be attending ACM Internet Measurement Conference late October! If you're going and interested in discussing research/meeting, shoot me an email! </li>
+  <li>(Sep 2022) Alongside 
+  <a href="https://cybersecurityfordemocracy.org/">CyberSecuirty for Democracy</a>
+  I've written up the results of my recent research: 
+  <a href="https://medium.com/cybersecurity-for-democracy/spending-on-2020-spanish-language-political-ads-on-meta-lagged-behind-english-language-ads-772fd22d4cee">Spending on 2020 Spanish-language political ads on Meta lagged behind English-language ads</a>
+</li>
+  <li>(Sep 2022) I have passed my Qualifying Exam and am officially a Ph.D. <s>Student</s> Candidate!
+</li>
+  <li>(Aug 2022) I have recently won the
+  <a href="https://ndd.tech">NDD Tech</a>
+  ML challenge! Read more 
+  <a href="https://brunogomescoelho.github.io/kaggle/ndd-challenge/">here</a>.
+</li>
 </ul>
-
-- (Oct 2022) I will be attending ACM Internet Measurement Conference late October! If you're going and interested in discussing research/meeting, shoot me an email! 
-- (Sep 2022) Alongside [CyberSecuirty for Democracy](https://cybersecurityfordemocracy.org/), I've written up the results of my recent research: [Spending on 2020 Spanish-language political ads on Meta lagged behind English-language ads](https://medium.com/cybersecurity-for-democracy/spending-on-2020-spanish-language-political-ads-on-meta-lagged-behind-english-language-ads-772fd22d4cee)
-- (Sep 2022) I have passed my Qualifying Exam and am officially a Ph.D. ~~Student~~ Candidate!
-- (Aug 2022) I have recently won the [NDD Tech](https://ndd.tech) ML challenge! Read more [here]({{ site.baseurl }}{% link _kaggle/2022-07-25-ndd-challenge.md %}).
 
 </details>
 
