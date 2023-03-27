@@ -54,12 +54,12 @@ In my free time I can be often be found traveling, reading sci-fi or practicing 
 
 # News:
 - (March 2023) 🧑‍🏫 I was invited for two guest lecture for NYU's Security Analytics class - "Information Visualization" and "Introduction to Data Science methods and Python tools".
-- (Feb 2023) I will be working at Kensho this summer as a Machine Learning Intern.
+- (Feb 2023) I will be working at [Kensho](https://kensho.com) this summer as a Machine Learning Intern.
 - (Feb 2023) I was invited to speak at NYU's PhD Prospective Students panel.
 - (Jan 2023) Our paper got accepted to the [2023 ACM Web Conference](https://www2023.thewebconf.org)! [Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español]({{ site.baseurl }}{% link download/spanish-ads-www2023.pdf %}) 
 
 <details>
-<summary> <h2>Old News</h2> </summary>
+<summary> <h2><a href="#0">Old News</a>Old News</h2> </summary>
 
  <ul>
   <li>(Oct 2022) I will be attending ACM Internet Measurement Conference late October! If you're going and interested in discussing research/meeting, shoot me an email! </li>
