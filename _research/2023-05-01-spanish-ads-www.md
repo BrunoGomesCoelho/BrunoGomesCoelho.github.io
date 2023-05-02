@@ -1,5 +1,6 @@
 ---
 title: "Further details - Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español"
+classes: wide
 date: 2023-05-01
 tags: []
 categories: research
@@ -56,7 +57,7 @@ TLDR: We do not believe impression-cost economics explains the differences obser
 
 This was one of the analysis that we performed that didn't fit into the paper - We built a statistical model to predict impression from an ad's type (see above), it's language and some other attributes. 
 Our statistical significant results showed that in general, Spanish-language ads actually led to more impressions for the same cost, compared to their English counterparts. 
-One difficulty of this research is not having exact numbers for both cost or impressions and instead having to rely on broad ranges - This meant we had to rely on ordinal models (ordinal both in one of it's input, the cost variable, and it's output, impression) and the result's we're less directly interpretable than something like CPI (cost-per-impression).
+One difficulty of this research is not having exact numbers for both cost or impressions and instead having to rely on broad ranges - This meant we had to rely on ordinal models (ordinal both in one of it's input, the cost variable, and it's output, impression) and the result's were less directly interpretable than something like CPI (cost-per-impression).
 
 
 ## Productionization: Ad Observatory
