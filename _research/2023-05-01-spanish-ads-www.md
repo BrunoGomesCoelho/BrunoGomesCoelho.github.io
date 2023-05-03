@@ -3,6 +3,7 @@ title: "Further details - Propaganda Política Pagada: Exploring U.S. Political 
 classes: wide
 date: 2023-05-01
 tags: []
+toc: true
 categories: research
 excerpt: ""
 
