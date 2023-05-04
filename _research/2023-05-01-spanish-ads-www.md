@@ -4,12 +4,15 @@ classes: wide
 date: 2023-05-01
 tags: []
 toc: true
+toc_label: "Summary:"
 categories: research
 excerpt: ""
 
 --- 
 
-This post includes further information about our paper, [Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español]({{ site.baseurl }}{% link download/spanish-ads-www2023.pdf %}) accepted at the [2023 ACM Web Conference (WWW 2023)](https://www2023.thewebconf.org/) in May 2023 and done in collaboration with amazing collaborators, ***Bruno Coelho***, Tobias Lauinger, Laura Edelson, Ian Goldstein, Damon McCcoy / [doi](https://doi.org/10.1145/3543507.3583425)
+This post includes further information about our paper, [Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español]({{ site.baseurl }}{% link download/spanish-ads-www2023.pdf %}) accepted at the [2023 ACM Web Conference (WWW 2023)](https://www2023.thewebconf.org/) in May 2023 and done in collaboration with amazing collaborators, ***Bruno Coelho***, Tobias Lauinger, Laura Edelson, Ian Goldstein, Damon McCcoy / [doi](https://doi.org/10.1145/3543507.3583425).
+
+Presentation slides from the conference [here](https://docs.google.com/presentation/d/e/2PACX-1vQfsObOOW-38hkRbu_2ohfgJ3Km4sq4gZhlwodFD-MJ65UP3V55w-T09AGzSRwnNEArRByo5VMVjfNa/pub?start=false&loop=false&delayms=60000).
 
 ## A different way of categorizing the ads - "Ad Types"
 
