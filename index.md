@@ -27,15 +27,16 @@ Currently, I'm focusing on:
 {% comment %}
 - Analysis of political ads on social media platforms
 - Helping put into production some of my research into [Ad Observatory](https://adobservatory.org/)
-{% endcomment %}
-- 🆕 A new research project for 2023 I'll update you about in the future ;)
 - 🌐 Applied Multilingual NLP techniques for Topic Modeling
 - 📚 Theoretical foundations of Deep Learning
+- 🆕 A new research project for 2023 I'll update you about in the future ;)
+{% endcomment %}
+- 🤖 Interning at [Kensho](https://kensho.com/) as a ML NLP intern working on LLM and Zero-shot classification
 
 As side/coding projects, I am also focusing on:
 - 🧑‍🏫 Mentoring students of the Data Science MBA at the University of São Paulo - I tutor ML, DS and DL classes
-- 🎄 Finishing up last years [Advent of Code](https://adventofcode.com/)
 {% comment %}
+- 🎄 Finishing up last years [Advent of Code](https://adventofcode.com/)
 - Taking the Intro to ML Safety course by the [Center for AI Safety](https://safe.ai/)
 {% endcomment %}
 
@@ -53,15 +54,21 @@ I got my bachelor's degree in Computer Science at the Universidade de São Paulo
 In my free time I can be often be found traveling, reading sci-fi or practicing Parkour. 
 
 # News:
+- (July 2023) I was invited to talk at NYU's PhD Panel about the graduate experience to interested undergraduate students.
+- (June 2023) I am interning at [Kensho](https://kensho.com/) for the summer as a ML NLP Intern.
 - (March 2023) 🧑‍🏫 I was invited for two guest lecture for NYU's Security Analytics class - "Information Visualization" and "Introduction to Data Science methods and Python tools".
-- (Feb 2023) I will be working at [Kensho](https://kensho.com) this summer as a Machine Learning Intern.
-- (Feb 2023) I was invited to speak at NYU's PhD Prospective Students panel.
-- (Jan 2023) Our paper got accepted to the [2023 ACM Web Conference](https://www2023.thewebconf.org)! [Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español]({{ site.baseurl }}{% link download/spanish-ads-www2023.pdf %}) 
 
 <details>
 <summary> Old News</summary>
 
  <ul>
+  <li>(Feb  2023) I was invited to speak at NYU's PhD Prospective Students panel. </li>
+  <li>(Jan 2023) Our paper got accepted to the 
+  <a href="https://www2023.thewebconf.org">2023 ACM Web Conference</a>!
+  - 
+  <a href="https://brunogomescoelho.github.io/research/spanish-ads-www/">Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español</a>!
+  </li>
+
   <li>(Oct 2022) I will be attending ACM Internet Measurement Conference late October! If you're going and interested in discussing research/meeting, shoot me an email! </li>
   <li>(Sep 2022) Alongside 
   <a href="https://cybersecurityfordemocracy.org/">CyberSecuirty for Democracy</a>
