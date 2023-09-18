@@ -6,7 +6,7 @@ permalink: /
 ---
 
 👋 Hi! Olá! I'm Bruno, currently a CS Ph.D. Candidate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/) working alongside the [Cybersecurity for Democracy](https://cybersecurityfordemocracy.org/) group.
-I work broadly in Machine Learning/Data Science theory and applications.
+I work broadly in applications of Machine Learning/Data Science for studying large online networks.
 
 {% comment %}
 I'll be looking for Summer 2023 internships in Machine Learning and Data Science, either in North America, Europe or remote. See my resume [here]({{ site.baseurl }}{% link download/Bruno_Gomes_Coelho_Resume.pdf %}) and send me an [email](mailto:bruno.coelho@nyu.edu) if you think I might be a good fit!
@@ -24,6 +24,10 @@ More info can be found on my [resume]({{ site.baseurl }}{% link download/Bruno_G
 
 # [Now page](https://nownownow.com/about)
 Currently, I'm focusing on:
+- Understanding how people speak and try to avoid filtering algorithms on TikTok
+- Working on Fact Checking with LLM's
+
+
 {% comment %}
 - Analysis of political ads on social media platforms
 - Helping put into production some of my research into [Ad Observatory](https://adobservatory.org/)
@@ -31,15 +35,16 @@ Currently, I'm focusing on:
 - 📚 Theoretical foundations of Deep Learning
 - 🆕 A new research project for 2023 I'll update you about in the future ;)
 {% endcomment %}
-- 🤖 Interning at [Kensho](https://kensho.com/) as a ML NLP intern working on LLM and Zero-shot classification
 
 As side/coding projects, I am also focusing on:
-- 🧑‍🏫 Mentoring students of the Data Science MBA at the University of São Paulo - I tutor ML, DS and DL classes
+- 🧑‍🏫 Mentoring students of the Data Science MBA at the University of São Paulo - I tutor "Introduction to Data Science", "Programming for Data Science", "Machine Learning" and "Neural Networks and Deep Learning".
 {% comment %}
 - 🎄 Finishing up last years [Advent of Code](https://adventofcode.com/)
 - Taking the Intro to ML Safety course by the [Center for AI Safety](https://safe.ai/)
 {% endcomment %}
 
+
+I am always interested in learning, discussing and collaborating on Cyber Security and Machine Learning research and interesting challenges - [Shoot me a email ✉️ ](mailto:bruno.coelho@nyu.edu) to chat! 
 
 {% comment %}
 I am open to internships and consulting work in tech and can be reached through [email](mailto:bruno.coelho@nyu.edu), with a focus on:General CS/ML Tutoring
@@ -54,8 +59,8 @@ I got my bachelor's degree in Computer Science at the Universidade de São Paulo
 In my free time I can be often be found traveling, reading sci-fi or practicing Parkour. 
 
 # News:
+- (August 2023) 🤖 I had a great time interning at [Kensho](https://kensho.com/) as a ML NLP intern working on LLM and Zero-shot classification
 - (July 2023) I was invited to talk at NYU's PhD Panel about the graduate experience to interested undergraduate students.
-- (June 2023) I am interning at [Kensho](https://kensho.com/) for the summer as a ML NLP Intern.
 - (March 2023) 🧑‍🏫 I was invited for two guest lecture for NYU's Security Analytics class - "Information Visualization" and "Introduction to Data Science methods and Python tools".
 
 <details>
