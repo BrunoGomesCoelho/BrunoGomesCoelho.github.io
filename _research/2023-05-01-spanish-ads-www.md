@@ -14,6 +14,27 @@ This post includes further information about our paper, [Propaganda Política Pa
 
 Presentation slides from the conference [here](https://docs.google.com/presentation/d/e/2PACX-1vQfsObOOW-38hkRbu_2ohfgJ3Km4sq4gZhlwodFD-MJ65UP3V55w-T09AGzSRwnNEArRByo5VMVjfNa/pub?start=false&loop=false&delayms=60000).
 
+## News articles
+
+- [Spending on 2020 Spanish-language political ads on Meta lagged behind English-language ads](https://medium.com/cybersecurity-for-democracy/spending-on-2020-spanish-language-political-ads-on-meta-lagged-behind-english-language-ads-772fd22d4cee)
+
+
+## Productionization: Ad Observatory
+Part of this research was used by the [Ad Observatory](https://adobservatory.org) team to perform multilingual topic modeling across English and Spanish.
+You can read about that work [here](https://medium.com/cybersecurity-for-democracy/lab-notebook-improving-topic-modeling-for-digital-political-ads-15e5adf5d6a). 
+
+There is a different set of requirements for a production environment, the biggest one being that we need to add new topics as they appear during an election season, unlike in our paper where we had a fixed dataset to work on. Because of that the implementation and details are slightly different, although the core use of keyword rules enhanced by aligned embeddings is the same.
+
+
+## Could lower impression numbers explain the differences observed?
+
+TLDR: We do not believe impression-cost economics explains the differences observed.
+
+This was one of the analysis that we performed that didn't fit into the paper - We built a statistical model to predict impression from an ad's type (see above), it's language and some other attributes. 
+Our statistical significant results showed that in general, Spanish-language ads actually led to more impressions for the same cost, compared to their English counterparts. 
+One difficulty of this research is not having exact numbers for both cost or impressions and instead having to rely on broad ranges - This meant we had to rely on ordinal models (ordinal both in one of it's input, the cost variable, and it's output, impression) and the result's were less directly interpretable than something like CPI (cost-per-impression).
+
+
 ## A different way of categorizing the ads - "Ad Types"
 
 **TLDR: Advertisers do not appear to conduct much fundraising through Spanish-language Facebook ads.**
@@ -53,25 +74,5 @@ of just $ 31 k. (Bilingual donation ads are almost nonexistent,
 at only $ 594 spent for 17 k impressions.) Advertisers do
 not appear to conduct much fundraising through Spanish-
 language Facebook ads.
-
-
-## Could lower impression numbers explain the differences observed?
-
-TLDR: We do not believe impression-cost economics explains the differences observed.
-
-This was one of the analysis that we performed that didn't fit into the paper - We built a statistical model to predict impression from an ad's type (see above), it's language and some other attributes. 
-Our statistical significant results showed that in general, Spanish-language ads actually led to more impressions for the same cost, compared to their English counterparts. 
-One difficulty of this research is not having exact numbers for both cost or impressions and instead having to rely on broad ranges - This meant we had to rely on ordinal models (ordinal both in one of it's input, the cost variable, and it's output, impression) and the result's were less directly interpretable than something like CPI (cost-per-impression).
-
-
-## Productionization: Ad Observatory
-Part of this research was used by the [Ad Observatory](https://adobservatory.org) team to perform multilingual topic modeling across English and Spanish.
-You can read about that work [here](https://medium.com/cybersecurity-for-democracy/lab-notebook-improving-topic-modeling-for-digital-political-ads-15e5adf5d6a). 
-
-There is a different set of requirements for a production environment, the biggest one being that we need to add new topics as they appear during an election season, unlike in our paper where we had a fixed dataset to work on. Because of that the implementation and details are slightly different, although the core use of keyword rules enhanced by aligned embeddings is the same.
-
-## News articles
-
-- [Spending on 2020 Spanish-language political ads on Meta lagged behind English-language ads](https://medium.com/cybersecurity-for-democracy/spending-on-2020-spanish-language-political-ads-on-meta-lagged-behind-english-language-ads-772fd22d4cee)
 
 
