@@ -38,6 +38,7 @@ Currently, I'm focusing on:
 
 As side/coding projects, I am also focusing on:
 - 🧑‍🏫 Mentoring students of the Data Science MBA at the University of São Paulo - I tutor "Introduction to Data Science", "Programming for Data Science", "Machine Learning" and "Neural Networks and Deep Learning".
+- Attending PyData NYC 2023 early November
 {% comment %}
 - 🎄 Finishing up last years [Advent of Code](https://adventofcode.com/)
 - Taking the Intro to ML Safety course by the [Center for AI Safety](https://safe.ai/)
@@ -59,6 +60,7 @@ I got my bachelor's degree in Computer Science at the Universidade de São Paulo
 In my free time I can be often be found traveling, reading sci-fi or practicing Parkour. 
 
 # News:
+- (October) 🐍💾 I will be attending PyData NYC early November!
 - (August 2023) 🤖 I had a great time interning at [Kensho](https://kensho.com/) as a ML NLP intern working on LLM and Zero-shot classification
 - (July 2023) I was invited to talk at NYU's PhD Panel about the graduate experience to interested undergraduate students.
 - (March 2023) 🧑‍🏫 I was invited for two guest lecture for NYU's Security Analytics class - "Information Visualization" and "Introduction to Data Science methods and Python tools".
