@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "👋 - About Me"
 permalink: /
 # header:
 #     image: "/images/about-cover.jpg"
@@ -24,8 +24,8 @@ More info can be found on my [resume]({{ site.baseurl }}{% link download/Bruno_G
 
 # [Now page](https://nownownow.com/about)
 Currently, I'm focusing on:
-- Understanding how people speak and try to avoid filtering algorithms on TikTok
-- Working on Fact Checking with LLM's
+- Understanding how representative political information is on social media platforms
+- Working on factuality of LLM's
 
 
 {% comment %}
@@ -38,7 +38,6 @@ Currently, I'm focusing on:
 
 As side/coding projects, I am also focusing on:
 - 🧑‍🏫 Mentoring students of the Data Science MBA at the University of São Paulo - I tutor "Introduction to Data Science", "Programming for Data Science", "Machine Learning" and "Neural Networks and Deep Learning".
-- Attending PyData NYC 2023 early November
 {% comment %}
 - 🎄 Finishing up last years [Advent of Code](https://adventofcode.com/)
 - Taking the Intro to ML Safety course by the [Center for AI Safety](https://safe.ai/)
@@ -60,15 +59,15 @@ I got my bachelor's degree in Computer Science at the Universidade de São Paulo
 In my free time I can be often be found traveling, reading sci-fi or practicing Parkour. 
 
 # News:
-- (October) 🐍💾 I will be attending PyData NYC early November!
-- (August 2023) 🤖 I had a great time interning at [Kensho](https://kensho.com/) as a ML NLP intern working on LLM and Zero-shot classification
-- (July 2023) I was invited to talk at NYU's PhD Panel about the graduate experience to interested undergraduate students.
-- (March 2023) 🧑‍🏫 I was invited for two guest lecture for NYU's Security Analytics class - "Information Visualization" and "Introduction to Data Science methods and Python tools".
 
 <details>
 <summary> Old News</summary>
 
  <ul>
+	<li> (November 2023) 🐍💾 I attended PyData NYC and had a great time with the local community. </li>
+	<li> (August 2023) 🤖 I had a great time interning at Kensho as a ML NLP intern working on LLM and Zero-shot classification. </li>
+	<li> (July 2023) I was invited to talk at NYU's PhD Panel about the graduate experience to interested undergraduate students. </li>
+	<li> (March 2023) 🧑‍🏫 I was invited for two guest lecture for NYU's Security Analytics class - "Information Visualization" and "Introduction to Data Science methods and Python tools". </li>
   <li>(Feb  2023) I was invited to speak at NYU's PhD Prospective Students panel. </li>
   <li>(Jan 2023) Our paper got accepted to the 
   <a href="https://www2023.thewebconf.org">2023 ACM Web Conference</a>!
