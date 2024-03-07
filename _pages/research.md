@@ -13,6 +13,9 @@ author_profile: True
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=xu1_CAUAAAAJ). Below recent publications:
 
+- [Global-Liar: Factuality of LLMs over Time and Geographic Regions](https://arxiv.org/abs/2401.17839)
+	- Shujaat Mirza, ***Bruno Coelho***, Yuyuan Cui, Christina Pöpper, Damon McCoy
+
 - [Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español]({{ site.baseurl }}{% link download/spanish-ads-www2023.pdf %}) 
 	- ***Bruno Coelho***, Tobias Lauinger, Laura Edelson, Ian Goldstein, Damon McCcoy 
 	- Presented at the [2023 ACM Web Conference (WWW 2023)](https://www2023.thewebconf.org/) in May 2023. / [doi](https://doi.org/10.1145/3543507.3583425)
