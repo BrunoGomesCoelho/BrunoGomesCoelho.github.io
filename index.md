@@ -24,7 +24,7 @@ More info can be found on my [resume]({{ site.baseurl }}{% link download/Bruno_G
 
 # [Now page](https://nownownow.com/about)
 Currently, I'm focusing on:
-- Understanding how representative political information is on social media platforms
+- Understanding how representative polarizing information is on social media platforms
 - Working on factuality of LLM's
 
 
@@ -60,16 +60,21 @@ In my free time I can be often be found traveling, reading sci-fi or practicing 
 
 # News:
 
+- (March  2024) 🎤 I was invited to speak at NYU's PhD Prospective Students panel. 
+- (February  2024) 📑 Our new paper on the factuality of LLM's is out - [Global-Liar: Factuality of LLMs over Time and Geographic Regions](https://arxiv.org/abs/2401.17839)
+
+
 <details>
 <summary> Old News</summary>
 
  <ul>
+  	<li>(February - April 2024)  I am a reviewer for ICWSM and IC2S2. </li>
 	<li> (November 2023) 🐍💾 I attended PyData NYC and had a great time with the local community. </li>
 	<li> (August 2023) 🤖 I had a great time interning at Kensho as a ML NLP intern working on LLM and Zero-shot classification. </li>
 	<li> (July 2023) I was invited to talk at NYU's PhD Panel about the graduate experience to interested undergraduate students. </li>
 	<li> (March 2023) 🧑‍🏫 I was invited for two guest lecture for NYU's Security Analytics class - "Information Visualization" and "Introduction to Data Science methods and Python tools". </li>
-  <li>(Feb  2023) I was invited to speak at NYU's PhD Prospective Students panel. </li>
-  <li>(Jan 2023) Our paper got accepted to the 
+  <li>(Feb  2023) 🎤 I was invited to speak at NYU's PhD Prospective Students panel. </li>
+  <li>(Jan 2023) 🎉 Our paper got accepted to the 
   <a href="https://www2023.thewebconf.org">2023 ACM Web Conference</a>!
   - 
   <a href="https://brunogomescoelho.github.io/research/spanish-ads-www/">Propaganda Política Pagada: Exploring U.S. Political Facebook Ads en Español</a>!
@@ -81,9 +86,9 @@ In my free time I can be often be found traveling, reading sci-fi or practicing 
   I've written up the results of my recent research: 
   <a href="https://medium.com/cybersecurity-for-democracy/spending-on-2020-spanish-language-political-ads-on-meta-lagged-behind-english-language-ads-772fd22d4cee">Spending on 2020 Spanish-language political ads on Meta lagged behind English-language ads</a>
 </li>
-  <li>(Sep 2022) I have passed my Qualifying Exam and am officially a Ph.D. <s>Student</s> Candidate!
+  <li>(Sep 2022) 🎉 I have passed my Qualifying Exam and am officially a Ph.D. <s>Student</s> Candidate!
 </li>
-  <li>(Aug 2022) I have recently won the
+  <li>(Aug 2022) 🎖️ I have recently won the
   <a href="https://ndd.tech">NDD Tech</a>
   ML challenge! Read more 
   <a href="https://brunogomescoelho.github.io/kaggle/ndd-challenge/">here</a>.
