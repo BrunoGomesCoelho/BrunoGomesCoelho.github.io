@@ -37,7 +37,8 @@ Currently, I'm focusing on:
 {% endcomment %}
 
 As side/coding projects, I am also focusing on:
-- 🧑‍🏫 Mentoring students of the Data Science MBA at the University of São Paulo - I tutor "Introduction to Data Science", "Programming for Data Science", "Machine Learning" and "Neural Networks and Deep Learning".
+- 🧑‍🏫 TA for University of São Paulo's Data Science MBA - I tutor "Introduction to Data Science", "Programming for Data Science", "Machine Learning" and "Neural Networks and Deep Learning".
+
 {% comment %}
 - 🎄 Finishing up last years [Advent of Code](https://adventofcode.com/)
 - Taking the Intro to ML Safety course by the [Center for AI Safety](https://safe.ai/)
