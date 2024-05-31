@@ -24,8 +24,9 @@ More info can be found on my [resume]({{ site.baseurl }}{% link download/Bruno_G
 
 # [Now page](https://nownownow.com/about)
 Currently, I'm focusing on:
+- Working at [Kennsho](https://www.kensho.com/) as a ML intern on the NLP team
 - Understanding how representative polarizing information is on social media platforms
-- Working on factuality of LLM's
+- Working on factuality of LLM's across languages
 
 
 {% comment %}
@@ -61,6 +62,7 @@ In my free time I can be often be found traveling, reading sci-fi or practicing 
 
 # News:
 
+- (May  2024) 🤖 I am excited to be returning to Kensho as a ML intern for this summer!
 - (March  2024) 🎤 I was invited to speak at NYU's PhD Prospective Students panel. 
 - (February  2024) 📑 Our new paper on the factuality of LLM's is out - [Global-Liar: Factuality of LLMs over Time and Geographic Regions](https://arxiv.org/abs/2401.17839)
 
