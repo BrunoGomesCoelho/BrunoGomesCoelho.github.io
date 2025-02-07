@@ -5,7 +5,7 @@ permalink: /
 #     image: "/images/about-cover.jpg"
 ---
 
-👋 Hi! Olá! I'm Bruno, currently a CS Ph.D. Candidate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/) working alongside the [Cybersecurity for Democracy](https://cybersecurityfordemocracy.org/) group.
+👋 Hi! Olá! I'm Bruno, a final year CS Ph.D. Candidate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/) working alongside the [Cybersecurity for Democracy](https://cybersecurityfordemocracy.org/) group.
 I work broadly in applications of Machine Learning/Data Science for studying large online networks.
 
 {% comment %}
@@ -22,25 +22,22 @@ More info can be found on my [resume]({{ site.baseurl }}{% link download/Bruno_G
 {% endcomment %}
 
 
+{% comment %}
 # [Now page](https://nownownow.com/about)
 Currently, I'm focusing on:
-- Working at [Kennsho](https://www.kensho.com/) as a ML intern on the NLP team
-- Understanding how representative polarizing information is on social media platforms
-- Working on factuality of LLM's across languages
+- Understanding how representative polarizing information is on TikTok
+- Working on factuality of LLM's across geographical regions
 
 
-{% comment %}
 - Analysis of political ads on social media platforms
 - Helping put into production some of my research into [Ad Observatory](https://adobservatory.org/)
 - 🌐 Applied Multilingual NLP techniques for Topic Modeling
 - 📚 Theoretical foundations of Deep Learning
 - 🆕 A new research project for 2023 I'll update you about in the future ;)
-{% endcomment %}
 
-As side/coding projects, I am also focusing on:
+As side/coding projects, I also:
 - 🧑‍🏫 TA for University of São Paulo's Data Science MBA - I tutor "Introduction to Data Science", "Programming for Data Science", "Machine Learning" and "Neural Networks and Deep Learning".
 
-{% comment %}
 - 🎄 Finishing up last years [Advent of Code](https://adventofcode.com/)
 - Taking the Intro to ML Safety course by the [Center for AI Safety](https://safe.ai/)
 {% endcomment %}
@@ -62,7 +59,7 @@ In my free time I can be often be found traveling, reading sci-fi or practicing 
 
 # News:
 
-- (May  2024) 🤖 I am excited to be returning to Kensho as a ML intern for this summer!
+- (September  2024) 🤖 I had a great time interning at Kensho as a ML intern during this past summer, focusing on LLM Safety.
 - (March  2024) 🎤 I was invited to speak at NYU's PhD Prospective Students panel. 
 - (February  2024) 📑 Our new paper on the factuality of LLM's is out - [Global-Liar: Factuality of LLMs over Time and Geographic Regions](https://arxiv.org/abs/2401.17839)
 
@@ -73,7 +70,7 @@ In my free time I can be often be found traveling, reading sci-fi or practicing 
  <ul>
   	<li>(February - April 2024)  I am a reviewer for ICWSM and IC2S2. </li>
 	<li> (November 2023) 🐍💾 I attended PyData NYC and had a great time with the local community. </li>
-	<li> (August 2023) 🤖 I had a great time interning at Kensho as a ML NLP intern working on LLM and Zero-shot classification. </li>
+	<li> (August 2023) 🤖 I had a great time interning at Kensho as a ML NLP intern working on LLMs and Zero-shot classification. </li>
 	<li> (July 2023) I was invited to talk at NYU's PhD Panel about the graduate experience to interested undergraduate students. </li>
 	<li> (March 2023) 🧑‍🏫 I was invited for two guest lecture for NYU's Security Analytics class - "Information Visualization" and "Introduction to Data Science methods and Python tools". </li>
   <li>(Feb  2023) 🎤 I was invited to speak at NYU's PhD Prospective Students panel. </li>
