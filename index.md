@@ -5,7 +5,7 @@ permalink: /
 #     image: "/images/about-cover.jpg"
 ---
 
-👋 Hi! Olá! I'm Bruno, a final year CS Ph.D. Candidate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/).org/) group.
+👋 Hi! Olá! I'm Bruno, a final year CS Ph.D. Candidate at [NYU Tandon School of Engineering](https://engineering.nyu.edu/) advised by professor [Damon McCoy](http://damonmccoy.com/).
 I work broadly in applications of Machine Learning/Data Science for studying large online networks.
 
 I recently defended my Ph.D. thesis and will be joining Kensho for my next adventure.
@@ -42,10 +42,10 @@ As side/coding projects, I also:
 
 - 🎄 Finishing up last years [Advent of Code](https://adventofcode.com/)
 - Taking the Intro to ML Safety course by the [Center for AI Safety](https://safe.ai/)
-{% endcomment %}
 
 
 I am always interested in learning, discussing and collaborating on Cyber Security and Machine Learning research and interesting challenges - [Shoot me a email ✉️ ](mailto:bruno.coelho@nyu.edu) to chat! 
+{% endcomment %}
 
 {% comment %}
 I am open to internships and consulting work in tech and can be reached through [email](mailto:bruno.coelho@nyu.edu), with a focus on:General CS/ML Tutoring
