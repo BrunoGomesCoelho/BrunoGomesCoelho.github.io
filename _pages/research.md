@@ -13,6 +13,10 @@ author_profile: True
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=xu1_CAUAAAAJ). Below recent publications:
 
+
+- [Understanding Inequality of LLM Fact-Checking over Geographic Regions with Agent and Retrieval models](https://arxiv.org/abs/2503.22877)
+	- ***Bruno Coelho***, Shujaat Mirza, Yuyuan Cui, Christina Pöpper, Damon McCoy
+
 - [Global-Liar: Factuality of LLMs over Time and Geographic Regions](https://arxiv.org/abs/2401.17839)
 	- Shujaat Mirza, ***Bruno Coelho***, Yuyuan Cui, Christina Pöpper, Damon McCoy
 
